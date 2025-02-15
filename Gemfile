@@ -4,10 +4,10 @@ source 'https://rubygems.org'
 ruby '>= 3.1.0'
 
 gem 'puma', '~> 6.3'
-gem 'rails', '~> 7.1.1'
+gem 'rails', '~> 7.2.0'
 gem 'propshaft'
 gem 'thor', '~> 1.2'
-gem 'rack', '~> 2.2.7'
+gem 'rack', '~> 2.2.11'
 
 # For why irb is in the Gemfile, see: https://ruby.social/@st0012/111444685161478182
 gem 'irb', '~> 1.8'
